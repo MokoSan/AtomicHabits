@@ -24,7 +24,7 @@
    5.  Commitment to the process will determine your progress.
    6.  You don't rise to the level of your goals. You fall to the level of your systems.
 
-## 2. How Habits Shape Your Identity
+### 2. How Habits Shape Your Identity
 1. Layers of Behavior Change are: __Outcomes__, __Processes__ and __Identity__. Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
 2. With outcome-based habits, the focus is on what you want to achieve.
 3. With identity-based habits, the focus is on who you wish to become.
@@ -47,3 +47,8 @@
 15. Formation of habits is a two-way street:
     1.  Your habits shape your identity, and your identity shapes your habits.
 16. Habits aren't about having something but becoming someone.
+
+### 3. How To Build Better Habits in 4 Simple Steps
+1. Habits are simple, reliable solutions to recurring problems in our environment.
+   1. Habits are mental shortcuts learned from experience.
+2. 
