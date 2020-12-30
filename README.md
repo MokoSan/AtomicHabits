@@ -14,4 +14,8 @@
 4. How to Build Better Habits in 4 Simple Steps
    1. The purpose of Habits is to solve problems of life with as little energy and effort as possible so that it becomes automatic.
    2. Any habit can be broken down into a feedback loop that involves: Cue, Craving, Response and Reward.
-   3. To build better habits, you need to make them: obvious, attractive, easy and satisfying. 
+   3. To build better habits, you need to make them: obvious, attractive, easy and satisfying.
+5. The Man That Didn't Look Right
+   1. Once habits become automatic, we stop paying attention and do them automatically.
+   2. Process of behavior change starts with awareness.
+   3. Habit Score-cards make you more aware of your behavior.

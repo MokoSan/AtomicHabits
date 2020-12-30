@@ -77,4 +77,30 @@
 8. Phase Wise Split of the 4 Steps
    1. __Problem Phase__: Cue and Craving
    2. __Solution Phase__: Response and Reward
-9. 
+9. 4 Laws of Behavioral Change
+   1.  How to Create a Good Habit - Make it:
+       1. Obvious (Cue) 
+       2. Attractive (Craving)
+       3. Easy (Response)
+       4. Satisfying (Reward)
+   2.  How to Break a Bad Habit - Make it:
+       1. Invisible (Cue)
+       2. Unattractive (Craving)
+       3. Difficult (Response)
+       4. Unsatisfying (Reward)
+
+## The 1st Law: Make it Obvious
+
+### 4. The Man Who Didn't Look Right
+1. Since habits are so well encoded via automatic cues, we must begin the process of behavioral change with awareness i.e. we need to get a handle on current ones.
+2. __Pointing and Calling__ is a system designed to reduce mistakes where every detail is identified, pointed at and named aloud. For example, used in Japanese railways.
+   1. It is effective because it raises the level of awareness from a non-conscious habit to a more conscious one.
+   2. It prevents the problem of "when we've done something a thousand times before, we tend to overlook things."
+3. A Habit Score card similar to a Pointing and Call system helps raise awareness about our entrenched habits.
+   1. Process is to make a list of our daily habits and for each behavior add:
+      1. "+" if it is a good habit.
+      2. "-" if it is a bad habit.
+      3. "=" if it is a neutral habit.
+   2. Only a long term perspective should be used to categorize habits into good, bad or neutral.
+   3. Question if a habit reinforces your desired identity.
+   4. Hearing your bad habits said out aloud makes the consequences seem more real.
