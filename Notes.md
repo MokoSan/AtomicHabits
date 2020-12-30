@@ -51,4 +51,30 @@
 ### 3. How To Build Better Habits in 4 Simple Steps
 1. Habits are simple, reliable solutions to recurring problems in our environment.
    1. Habits are mental shortcuts learned from experience.
-2. 
+2. Behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.
+3. Habits are simply, reliable solutions to recurring problems in our environment.
+4. As habits are created, the level of activity in our brain decreases.
+   1. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past.
+5. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+6. 4 Steps of Building a Habit:
+   1. __Cue__: A cue triggers your brain to initiate a behavior.
+      1. A cue is about noticing a reward.
+   2. __Craving__: Motivational force behind every habit. 
+      1. What you crave isn't the habit but the changed state that the habit delivers. 
+      2. Cravings encompass the thoughts, feelings and emotions of the observer are what transform a cue into a craving.
+      3. The craving is about wanting the reward.
+   3. __Response__: The actual habit you perform, which takes the form of a thought or action.
+      1. A habit can only occur if you are capable of doing it.
+      2. The response is about doing something to get the reward.
+   4. __Reward__: The end goal of every habit.
+      1. We chase rewards because:
+         1. They satisfy your cravings.
+         2. They teach us.
+7. The 4 steps of building a habit form a neurological feedback loop called a __Habit Loop__.
+   1. They led to forming automatic habits.
+   2. The reward, through repetition, is associated with the cue and the cycle continues.
+      1. Cue -> Craving -> Response -> Reward -----> [Cycle back]
+8. Phase Wise Split of the 4 Steps
+   1. __Problem Phase__: Cue and Craving
+   2. __Solution Phase__: Response and Reward
+9. 
