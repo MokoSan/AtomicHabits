@@ -9,3 +9,5 @@
    1. Create a habit score card.
       1. Write down daily habits.
       2. + for Good Habits, - for Bad Habits and = for Neutral Habits.
+4. __Implementation Intention__
+   1. Create a list of habits incorporating the idea of implementation intention with associated habit stacking.

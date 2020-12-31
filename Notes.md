@@ -52,11 +52,10 @@
 1. Habits are simple, reliable solutions to recurring problems in our environment.
    1. Habits are mental shortcuts learned from experience.
 2. Behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.
-3. Habits are simply, reliable solutions to recurring problems in our environment.
-4. As habits are created, the level of activity in our brain decreases.
+3. As habits are created, the level of activity in our brain decreases.
    1. In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past.
-5. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
-6. 4 Steps of Building a Habit:
+4. Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks.
+5. 4 Steps of Building a Habit:
    1. __Cue__: A cue triggers your brain to initiate a behavior.
       1. A cue is about noticing a reward.
    2. __Craving__: Motivational force behind every habit. 
@@ -70,14 +69,14 @@
       1. We chase rewards because:
          1. They satisfy your cravings.
          2. They teach us.
-7. The 4 steps of building a habit form a neurological feedback loop called a __Habit Loop__.
+6. The 4 steps of building a habit form a neurological feedback loop called a __Habit Loop__.
    1. They led to forming automatic habits.
    2. The reward, through repetition, is associated with the cue and the cycle continues.
       1. Cue -> Craving -> Response -> Reward -----> [Cycle back]
-8. Phase Wise Split of the 4 Steps
+7. Phase Wise Split of the 4 Steps
    1. __Problem Phase__: Cue and Craving
    2. __Solution Phase__: Response and Reward
-9. 4 Laws of Behavioral Change
+8. 4 Laws of Behavioral Change
    1.  How to Create a Good Habit - Make it:
        1. Obvious (Cue) 
        2. Attractive (Craving)
@@ -104,3 +103,24 @@
    2. Only a long term perspective should be used to categorize habits into good, bad or neutral.
    3. Question if a habit reinforces your desired identity.
    4. Hearing your bad habits said out aloud makes the consequences seem more real.
+
+### 5. The Best Way To Start a New Habit
+1. Two most common cues are: time and location.
+2. __Implementation Intention__: A plan you make beforehand about when and where you are going to act i.e. how you plan to implement a particular habit.
+   1. Format: "When X situation arises, I will perform response Y".
+   2. People who make a specific plan for when and where they will perform a new habit are more likely to follow through.
+   3. Many people think they lack motivation but what they lack is clarity.
+   4. Simple strategy for Effective Implementation Intention: I will [BEHAVIOR] at [TIME] in [LOCATION].
+   5. The goal where is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can't say why.
+   6. When your dreams are vague, it is easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
+3. __Habit Stacking__: One of the best ways to build a new habit is to identify a current habit and stack new behavior on top of it.
+   1. "After [Current Habit], I will [New Habit]"
+   2. Habit stacking increases the likelihood that you'll stick with a habit by stacking new behavior on top of your old one.
+   3. Habit stacking also allows you to create a simple set of rules that guide your future behavior.
+   4. The secret to creating a successful habit stack is to select the right cue to kick things off.
+      1. Consider when you are likely to be most successful.
+      2. Your cue should be the same frequency as your habit.
+      3. __Habit stacking works when the cue is highly *specific* and *immediately actionable*.
+         1. Reduce all ambiguity.
+         2. Be specific and clear: the most tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the times comes to act.
+   5. __Diderot Effect__: Obtaining new possessions often creates a spiral of consumption that leads to additional purchases. 
