@@ -124,3 +124,22 @@
          1. Reduce all ambiguity.
          2. Be specific and clear: the most tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the times comes to act.
    5. __Diderot Effect__: Obtaining new possessions often creates a spiral of consumption that leads to additional purchases. 
+
+### 6. Motivation is Overrated; Environment Often Matters More
+1. Every habit is context dependent - we are changed by the world around us.
+2. __Levin's Equation__: Behavior is a function of the person and their environment. B = *f*(P,E)
+   1. __Suggestion Impulse Buying__: Levin's Equation in practice is a trigger when a shopper sees a product for the first time and visualizes a need for it.
+      1. In other words, a customer won't buy the product because they need it but because how it is presented.
+3. Many actions we take daily are shaped not by purposeful drive and choice but by the most obvious option.
+4. Visual cues are the greatest catalysts of our behavior.
+5. Every habit is initiated by a cue, and we are more likely to notice cues that stand out.
+6. Creating obvious visual cues can draw your attention towards a desired habit.
+7. If you want to make a habit a big part of your life, make a cue a big part of your environment.
+8. By sprinkling triggers throughout your surroundings, you increase the odds that you'll think about your habit throughout the day.
+   1. Make sure the best choice is the most obvious one.
+9. Be the designer of your world and not merely a consumer of it.
+10. Your habits become associated not with a single trigger but with the entire context surrounding the behavior.
+11. Our behavior is not defined by the objects in the environment but by our relationship to them.
+12. Start thinking about your environment not as filled with objects but with relationships.
+    1.  Think of how you interact with the space around you.
+13. You can train yourself to link a particular habit to a particular context.

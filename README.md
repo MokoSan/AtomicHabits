@@ -21,5 +21,5 @@
    3. Habit Score-cards make you more aware of your behavior.
 6. The Best Way to Start a New Habit
    1. __Implementation Intention__: A plan you make beforehand about when (time) and where (location) you are going to act. "I will implement [BEHAVIOR] at [TIME] in [LOCATION]".
-   2. __Habit Stacking__: How you pair a new habit with a current one. After [CURRENT HABIT], I will [NEW HABIT]
+   2. __Habit Stacking__: How you pair a new habit with a current one. After [CURRENT HABIT], I will [NEW HABIT].
    3. Habits stack successfully when the cue is highly specific and immediately actionable i.e. no ambiguity - be specific and clear about the cues.
