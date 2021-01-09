@@ -147,4 +147,21 @@
 15. One space, one use - separate spaces for vital things.
 16. A stable environment where everything has a place and purpose is an environment where habits can be formed.
 
-### 7. 
+### 7. The Secret to Self-Control
+1. Robin's study of heroin addicted veterans concluded that addictions could spontaneously be dissolved if there is a radical change in environment.
+2. Create an environment devoid of triggers. When the context changes, so does the habit.
+3. Reducing environmental stimuli to decrease proclivity of addictions goes against the conventional association of unhealthy behavior and moral weakness or will power.
+4. People better at structuring their lives in a way that doesn't require heroic willpower and self-control i.e. they spend less time in tempting situations.
+5. People with the best self-control are the ones who need to use it the least. Self-restraint is easiest when you don't have to use it often.
+6. People get disciplined by creating a more disciplined environment.
+7. Once a habit has been encoded, the urge to act follows whenever the environmental cues reappear.
+8. Bad habits are __autocatalytic__: a process that feeds itself. They foster feelings they try to numb.
+9. __Cue Induced Wanting__: An external trigger causes a compulsive craving to repeat a bad habit. For example, Shaming obese people with weight-loss presentation can get them anxious and repeat overeating.
+10. You can break a habit, but you're unlikely to forget it.
+    1.  Self-control can only get you so far.
+    2.  Environmental-change is for the long term.
+11. It's impossible to sustainably stick to positive habits in a negative environment.
+12. One of the most practical way of getting rid of bad habits is to reduce exposure to the cue that causes it.
+13. Make the cues of bad habits invisible.
+    1.  Removing a single cue that triggers a bad habit, the entire habit fades away.
+14. __Secret to Self-control__: Optimizing your environment that sets off cues for bad habits. Make the cues of good habits obvious and bad habits, invisible.

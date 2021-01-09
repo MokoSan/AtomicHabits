@@ -23,3 +23,11 @@
    1. __Implementation Intention__: A plan you make beforehand about when (time) and where (location) you are going to act. "I will implement [BEHAVIOR] at [TIME] in [LOCATION]".
    2. __Habit Stacking__: How you pair a new habit with a current one. After [CURRENT HABIT], I will [NEW HABIT].
    3. Habits stack successfully when the cue is highly specific and immediately actionable i.e. no ambiguity - be specific and clear about the cues.
+7. Motivation is Overrated; Environment Often Matters More
+   1. Motivation isn't as sustainable as good environmental cues.
+   2. Make the cues of good habits obvious in your environment. 
+   3. Habits get associated not with a single trigger but contexts surrounding the behavior i.e. contexts become cues.
+8. The Secret to Self-Control
+   1. Self-control is a short term strategy, the long term strategy or the secret to self-control is rooted in environmental changes.
+   2. Once a habit is formed, it is unlikely to be forgotten.
+   3. People with high self-control tend to spend less time in tempting situations i.e. reduce exposure to the cue that causes it.
