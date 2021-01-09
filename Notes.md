@@ -143,3 +143,8 @@
 12. Start thinking about your environment not as filled with objects but with relationships.
     1.  Think of how you interact with the space around you.
 13. You can train yourself to link a particular habit to a particular context.
+14. Habits can be easier to change in a new environment.
+15. One space, one use - separate spaces for vital things.
+16. A stable environment where everything has a place and purpose is an environment where habits can be formed.
+
+### 7. 
