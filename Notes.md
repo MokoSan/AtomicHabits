@@ -165,3 +165,25 @@
 13. Make the cues of bad habits invisible.
     1.  Removing a single cue that triggers a bad habit, the entire habit fades away.
 14. __Secret to Self-control__: Optimizing your environment that sets off cues for bad habits. Make the cues of good habits obvious and bad habits, invisible.
+
+## The 2nd Law: Make It Attractive
+
+### 8. How To Make a Habit Irresistible
+1. __Supernormal Stimulus__: A heightened version of reality that elicits a stronger response than usual.
+   1. __Junk Food__ 
+      1. The human brain has evolved to place a high value on salt, sugar and fat. This food was quite rare in the environment of our ancestors and not knowing where our ancestor's meal was coming from, eating as much as possible increased the likelihood of survival.
+      2. The modern food industry relies on stretching our Paleolithic instincts beyond the evolutionary purpose.
+      3. The modern food industry's primary goal is to make more money and therefore, they get people addicted to food by taking advantage of genetically encoded habits from our ancestors to eat as much sugar, fat and salt.
+      4. __Orosentation__: How a product feels in your mouth. The modern food industry optimizes for this to trigger consumers to eat more. Overeating hyperpalatable foods, in other words, is attractive to the human brain and therefore, causes us to gain more weight.
+      5. The __bliss point__ for each product is researched every year to optimize the dopamine hits.
+   2. __Porn__
+      1. Splicing together stimulating scenes at a rate impossible to replicate in real life gets everyone hooked.
+      2. The supernormal stimulus here is the instant gratification via dopamine flooding achieved from the biological need to procreate.
+   3. __Social Media__
+      1. More "likes" or digital praises triggers dopamine more than one could achieve in an in person conversation.
+   4. __Advertising__
+      1. Ideal lighting, professional make-up and photoshopped edits make the desire to buy the product more attractive.
+      2. Mannequins with exaggerated and over sexualized features to sell products.
+2. The more attractive an opportunity is, the more likely it is to become habit-forming.
+3. Compared to nature, these pleasure packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
+4. Using this knowledge, to increase the odds that a behavior will occur, then you need to make it attractive. 
