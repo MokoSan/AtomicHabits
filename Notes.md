@@ -113,7 +113,7 @@
    4. Simple strategy for Effective Implementation Intention: I will [BEHAVIOR] at [TIME] in [LOCATION].
    5. The goal where is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can't say why.
    6. When your dreams are vague, it is easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
-3. __Habit Stacking__: One of the best ways to build a new habit is to identify a current habit and stack new behavior on top of it.
+3. _Habit Stacking_: One of the best ways to build a new habit is to identify a current habit and stack new behavior on top of it.
    1. "After [Current Habit], I will [New Habit]"
    2. Habit stacking increases the likelihood that you'll stick with a habit by stacking new behavior on top of your old one.
    3. Habit stacking also allows you to create a simple set of rules that guide your future behavior.
@@ -186,4 +186,6 @@
       2. Mannequins with exaggerated and over sexualized features to sell products.
 2. The more attractive an opportunity is, the more likely it is to become habit-forming.
 3. Compared to nature, these pleasure packed experiences are hard to resist. We have the brains of our ancestors but temptations they never had to face.
-4. Using this knowledge, to increase the odds that a behavior will occur, then you need to make it attractive. 
+4. Using this knowledge, to increase the odds that a behavior will occur, then you need to make it attractive.
+5. A biological signature that all habits share is the __dopamine spike__.
+6. Dopamine is released not only when you experience pleasure but also when you anticipate it. 
