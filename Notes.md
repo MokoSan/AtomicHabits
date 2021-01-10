@@ -113,7 +113,7 @@
    4. Simple strategy for Effective Implementation Intention: I will [BEHAVIOR] at [TIME] in [LOCATION].
    5. The goal where is to make the time and location so obvious that, with enough repetition, you get an urge to do the right thing at the right time, even if you can't say why.
    6. When your dreams are vague, it is easy to rationalize little exceptions all day long and never get around to the specific things you need to do to succeed.
-3. _Habit Stacking_: One of the best ways to build a new habit is to identify a current habit and stack new behavior on top of it.
+3. Habit Stacking: One of the best ways to build a new habit is to identify a current habit and stack new behavior on top of it.
    1. "After [Current Habit], I will [New Habit]"
    2. Habit stacking increases the likelihood that you'll stick with a habit by stacking new behavior on top of your old one.
    3. Habit stacking also allows you to create a simple set of rules that guide your future behavior.
